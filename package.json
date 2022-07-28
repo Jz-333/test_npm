@@ -1,5 +1,5 @@
 {
-  "name": "test_npm",
+  "name": "test_npm_loso",
   "version": "1.0.0",
   "description": "测试npm上传包",
   "main": "index.js",
@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jz-333/test_npm_loso.git"
+  }
 }
